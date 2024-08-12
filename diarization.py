@@ -10,7 +10,7 @@ from pyannote.core import Segment
 from huggingface_hub import login
 
 # Your Hugging Face access token
-HF_AUTH_TOKEN = "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"
+HF_AUTH_TOKEN = "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"
 
 # Log in to Hugging Face
 login(token=HF_AUTH_TOKEN)
